@@ -1,0 +1,440 @@
+{
+  "rice": {
+    "name": "밥(지은 밥)",
+    "unit": "g",
+    "category": "주식",
+    "aliases": [
+      "밥",
+      "지은밥",
+      "지은 밥",
+      "공깃밥"
+    ],
+    "price": 3.0
+  },
+  "raw_rice": {
+    "name": "쌀(조리 전)",
+    "unit": "g",
+    "category": "주식",
+    "aliases": [
+      "쌀",
+      "생쌀"
+    ],
+    "price": 4.0
+  },
+  "egg": {
+    "name": "달걀",
+    "unit": "개",
+    "category": "단백질",
+    "aliases": [
+      "계란",
+      "달걀"
+    ],
+    "price": 300.0
+  },
+  "onion": {
+    "name": "양파",
+    "unit": "g",
+    "category": "채소",
+    "aliases": [
+      "양파"
+    ],
+    "price": 2.0
+  },
+  "carrot": {
+    "name": "당근",
+    "unit": "g",
+    "category": "채소",
+    "aliases": [
+      "당근"
+    ],
+    "price": 3.0
+  },
+  "green_onion": {
+    "name": "대파",
+    "unit": "g",
+    "category": "채소",
+    "aliases": [
+      "파",
+      "대파"
+    ],
+    "price": 4.0
+  },
+  "potato": {
+    "name": "감자",
+    "unit": "g",
+    "category": "채소",
+    "aliases": [
+      "감자"
+    ],
+    "price": 3.0
+  },
+  "sweet_potato": {
+    "name": "고구마",
+    "unit": "g",
+    "category": "채소",
+    "aliases": [
+      "고구마"
+    ],
+    "price": 4.0
+  },
+  "kimchi": {
+    "name": "배추김치",
+    "unit": "g",
+    "category": "가공식품",
+    "aliases": [
+      "김치",
+      "배추김치"
+    ],
+    "price": 6.0
+  },
+  "tofu": {
+    "name": "두부",
+    "unit": "g",
+    "category": "단백질",
+    "aliases": [
+      "두부"
+    ],
+    "price": 4.0
+  },
+  "ham": {
+    "name": "햄",
+    "unit": "g",
+    "category": "가공식품",
+    "aliases": [
+      "햄"
+    ],
+    "price": 10.0
+  },
+  "canned_tuna": {
+    "name": "참치통조림(기름·물 제거 후)",
+    "unit": "g",
+    "category": "가공식품",
+    "aliases": [
+      "참치",
+      "참치캔",
+      "참치통조림",
+      "통조림참치"
+    ],
+    "price": 16.0
+  },
+  "noodle": {
+    "name": "소면(마른 면)",
+    "unit": "g",
+    "category": "주식",
+    "aliases": [
+      "소면",
+      "마른소면",
+      "마른 소면",
+      "국수"
+    ],
+    "price": 4.0
+  },
+  "pasta": {
+    "name": "파스타면(마른 면)",
+    "unit": "g",
+    "category": "주식",
+    "aliases": [
+      "파스타면",
+      "스파게티면",
+      "마른파스타"
+    ],
+    "price": 5.0
+  },
+  "milk": {
+    "name": "우유",
+    "unit": "ml",
+    "category": "유제품",
+    "aliases": [
+      "우유"
+    ],
+    "price": 3.0
+  },
+  "cheese": {
+    "name": "치즈",
+    "unit": "g",
+    "category": "유제품",
+    "aliases": [
+      "치즈",
+      "슬라이스치즈",
+      "모차렐라치즈"
+    ],
+    "price": 18.0
+  },
+  "bread": {
+    "name": "식빵(1장 = 1개)",
+    "unit": "개",
+    "category": "주식",
+    "aliases": [
+      "식빵",
+      "토스트용식빵"
+    ],
+    "price": 250.0
+  },
+  "salt": {
+    "name": "소금",
+    "unit": "g",
+    "category": "양념",
+    "aliases": [
+      "소금"
+    ],
+    "price": 2.0
+  },
+  "sugar": {
+    "name": "설탕",
+    "unit": "g",
+    "category": "양념",
+    "aliases": [
+      "설탕"
+    ],
+    "price": 3.0
+  },
+  "soy_sauce": {
+    "name": "간장",
+    "unit": "ml",
+    "category": "양념",
+    "aliases": [
+      "간장",
+      "진간장"
+    ],
+    "price": 5.0
+  },
+  "cooking_oil": {
+    "name": "식용유",
+    "unit": "ml",
+    "category": "양념",
+    "aliases": [
+      "식용유",
+      "기름",
+      "카놀라유",
+      "콩기름"
+    ],
+    "price": 4.0
+  },
+  "sesame_oil": {
+    "name": "참기름",
+    "unit": "ml",
+    "category": "양념",
+    "aliases": [
+      "참기름"
+    ],
+    "price": 20.0
+  },
+  "vinegar": {
+    "name": "식초",
+    "unit": "ml",
+    "category": "양념",
+    "aliases": [
+      "식초"
+    ],
+    "price": 3.0
+  },
+  "chili_flakes": {
+    "name": "고춧가루",
+    "unit": "g",
+    "category": "양념",
+    "aliases": [
+      "고춧가루",
+      "고추가루"
+    ],
+    "price": 18.0
+  },
+  "gochujang": {
+    "name": "고추장",
+    "unit": "g",
+    "category": "양념",
+    "aliases": [
+      "고추장"
+    ],
+    "price": 7.0
+  },
+  "doenjang": {
+    "name": "된장",
+    "unit": "g",
+    "category": "양념",
+    "aliases": [
+      "된장"
+    ],
+    "price": 6.0
+  },
+  "garlic": {
+    "name": "다진 마늘",
+    "unit": "g",
+    "category": "양념",
+    "aliases": [
+      "마늘",
+      "다진마늘",
+      "다진 마늘"
+    ],
+    "price": 10.0
+  },
+  "mushroom": {
+    "name": "버섯",
+    "unit": "g",
+    "category": "채소",
+    "aliases": [
+      "버섯",
+      "느타리버섯",
+      "새송이버섯",
+      "양송이버섯"
+    ],
+    "price": 8.0
+  },
+  "cabbage": {
+    "name": "양배추",
+    "unit": "g",
+    "category": "채소",
+    "aliases": [
+      "양배추"
+    ],
+    "price": 2.0
+  },
+  "zucchini": {
+    "name": "애호박",
+    "unit": "g",
+    "category": "채소",
+    "aliases": [
+      "애호박"
+    ],
+    "price": 4.0
+  },
+  "cucumber": {
+    "name": "오이",
+    "unit": "g",
+    "category": "채소",
+    "aliases": [
+      "오이"
+    ],
+    "price": 4.0
+  },
+  "spinach": {
+    "name": "시금치",
+    "unit": "g",
+    "category": "채소",
+    "aliases": [
+      "시금치"
+    ],
+    "price": 6.0
+  },
+  "bean_sprouts": {
+    "name": "콩나물",
+    "unit": "g",
+    "category": "채소",
+    "aliases": [
+      "콩나물"
+    ],
+    "price": 3.0
+  },
+  "broccoli": {
+    "name": "브로콜리",
+    "unit": "g",
+    "category": "채소",
+    "aliases": [
+      "브로콜리"
+    ],
+    "price": 7.0
+  },
+  "corn": {
+    "name": "옥수수 알(물기 제거 후)",
+    "unit": "g",
+    "category": "가공식품",
+    "aliases": [
+      "옥수수",
+      "옥수수알",
+      "옥수수통조림",
+      "스위트콘"
+    ],
+    "price": 5.0
+  },
+  "seaweed": {
+    "name": "김(조미하지 않은 김)",
+    "unit": "g",
+    "category": "가공식품",
+    "aliases": [
+      "김",
+      "구운김",
+      "마른김"
+    ],
+    "price": 45.0
+  },
+  "dried_seaweed": {
+    "name": "마른 미역",
+    "unit": "g",
+    "category": "가공식품",
+    "aliases": [
+      "미역",
+      "마른미역",
+      "마른 미역"
+    ],
+    "price": 30.0
+  },
+  "butter": {
+    "name": "버터",
+    "unit": "g",
+    "category": "유제품",
+    "aliases": [
+      "버터"
+    ],
+    "price": 16.0
+  },
+  "ketchup": {
+    "name": "케첩",
+    "unit": "g",
+    "category": "양념",
+    "aliases": [
+      "케첩",
+      "케찹"
+    ],
+    "price": 5.0
+  },
+  "mayonnaise": {
+    "name": "마요네즈",
+    "unit": "g",
+    "category": "양념",
+    "aliases": [
+      "마요네즈"
+    ],
+    "price": 6.0
+  },
+  "black_pepper": {
+    "name": "후추",
+    "unit": "g",
+    "category": "양념",
+    "aliases": [
+      "후추",
+      "후춧가루"
+    ],
+    "price": 25.0
+  },
+  "chicken": {
+    "name": "닭고기(뼈 없는 살)",
+    "unit": "g",
+    "category": "단백질",
+    "aliases": [
+      "닭고기",
+      "닭가슴살",
+      "닭안심"
+    ],
+    "price": 10.0
+  },
+  "minced_pork": {
+    "name": "다진 돼지고기",
+    "unit": "g",
+    "category": "단백질",
+    "aliases": [
+      "돼지고기",
+      "다진돼지고기",
+      "돼지고기다짐육"
+    ],
+    "price": 12.0
+  },
+  "tomato_sauce": {
+    "name": "토마토소스",
+    "unit": "g",
+    "category": "가공식품",
+    "aliases": [
+      "토마토소스",
+      "토마토파스타소스"
+    ],
+    "price": 7.0
+  }
+}
